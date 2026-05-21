@@ -1,0 +1,24 @@
+# requirements.txt
+# Install with: pip install -r requirements.txt
+
+# ── UI ──────────────────────────────────────
+streamlit>=1.32.0
+plotly>=5.20.0
+
+# ── Data ────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Log Parsing ──────────────────────────────
+drain3>=0.9.11
+lxml>=5.1.0
+
+# ── ML / Models (no HuggingFace needed) ──────
+torch>=2.2.0
+scikit-learn>=1.4.0
+
+# ── Windows Logs ─────────────────────────────
+pywin32>=306
+
+# ── LLM ─────────────────────────────────────
+requests>=2.31.0
