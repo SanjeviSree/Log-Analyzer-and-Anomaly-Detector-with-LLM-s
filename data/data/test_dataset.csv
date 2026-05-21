@@ -1,0 +1,201 @@
+message,EventID,Level,LogType,true_attack_type,TimeCreated,true_label
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-06 19:03:13,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-06 20:27:44,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-06 21:19:46,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-06 22:01:46,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-07 05:06:20,normal
+Network Disconnected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Disconnected Category: Public,10004,Information,Network,none,2026-03-07 14:46:39,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-08 08:44:00,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-08 08:48:21,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-08 21:35:09,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-08 21:43:09,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-08 23:33:10,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-09 02:23:04,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-10 11:33:08,normal
+The system time was changed. Previous Time: New Time: Process: svchost.exe,4616,Information,System,none,2026-03-10 11:55:22,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-10 16:38:26,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-10 19:59:19,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-10 22:07:58,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-10 22:21:56,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-10 22:46:32,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-11 02:42:29,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-11 08:20:27,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-11 11:41:01,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-12 13:08:21,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-12 14:20:49,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-13 05:14:37,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-14 02:22:25,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-14 05:54:18,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-14 10:08:41,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-14 19:33:48,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-14 20:59:11,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-14 21:07:48,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-03-14 21:36:08,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-14 22:13:23,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-15 01:43:23,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-15 09:12:49,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-15 12:53:29,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-15 15:14:43,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-16 06:22:57,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-16 07:42:20,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-16 08:43:58,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-16 11:18:48,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-16 22:25:38,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-17 04:02:56,normal
+The system time was changed. Previous Time: New Time: Process: svchost.exe,4616,Information,System,none,2026-03-17 06:37:12,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-17 11:41:01,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-17 13:02:40,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-17 13:44:13,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-18 05:12:10,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-18 11:57:45,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-03-18 13:47:21,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-19 02:15:56,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-19 15:23:09,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-19 22:26:26,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-20 03:42:48,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-20 09:52:23,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-20 17:57:22,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-20 18:59:18,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-21 05:52:56,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-21 11:40:41,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-21 13:01:11,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-21 14:40:52,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-22 02:44:27,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-22 04:52:31,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-23 03:51:21,normal
+Network Disconnected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Disconnected Category: Public,10004,Information,Network,none,2026-03-23 04:04:53,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-23 07:32:06,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-23 20:10:48,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-23 22:03:52,normal
+The system time was changed. Previous Time: New Time: Process: svchost.exe,4616,Information,System,none,2026-03-24 02:15:16,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-24 02:34:54,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-24 02:45:11,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-24 04:28:57,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-24 10:32:36,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-24 17:41:54,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-24 18:58:07,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-24 21:40:55,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-25 05:30:16,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-25 08:59:21,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-03-25 09:59:32,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-25 13:40:27,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-03-25 19:51:28,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-03-25 22:09:35,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-26 02:44:31,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-26 15:06:55,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-26 16:11:20,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-27 13:07:36,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-27 19:39:24,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-27 23:13:00,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-27 23:26:55,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-28 02:10:39,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-28 10:02:00,normal
+The system time was changed. Previous Time: New Time: Process: svchost.exe,4616,Information,System,none,2026-03-28 12:30:57,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-28 16:10:28,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-28 18:18:46,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-28 19:35:26,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-28 19:41:46,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-03-28 19:49:23,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-28 20:04:55,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-28 21:21:47,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-29 05:31:07,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-29 06:40:34,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-29 08:02:41,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-29 11:34:44,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-29 13:06:34,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-03-29 16:20:37,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-03-29 21:41:56,normal
+An account was logged off. Subject: Account Name: vijayan Logon Type: 2,4634,Information,Security,none,2026-03-30 03:58:49,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-03-30 04:24:50,normal
+A user account was changed. Target Account: Account Name: vijayan Account Domain: DESKTOP,4738,Information,Security,none,2026-03-30 08:17:11,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-03-30 09:26:45,normal
+Transitioning to State: Identified Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10001,Information,Network,none,2026-03-30 10:37:45,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-31 00:35:31,normal
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-03-31 06:25:32,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-31 09:54:27,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-03-31 20:53:14,normal
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-03-31 22:13:18,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-03-31 23:20:59,normal
+Network Disconnected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Disconnected Category: Public,10004,Information,Network,none,2026-04-01 02:35:30,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-04-01 04:29:33,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-04-01 14:04:10,normal
+Network Connected Name: Airtel_Home Desc: Airtel_Home Type: Unmanaged State: Connected IPV4 (Internet) Category: Public,10002,Information,Network,none,2026-04-01 22:05:42,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-04-02 00:39:43,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-04-02 10:22:43,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-04-02 11:35:22,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-04-02 13:55:16,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-04-02 17:48:57,normal
+The Windows Update service entered the running state.,7036,Information,System,none,2026-04-02 19:40:34,normal
+The Windows Filtering Platform has permitted a connection. Application: svchost.exe Source Port: 443,5156,Information,Security,none,2026-04-02 20:02:33,normal
+Entered State: Identifying Network Interface Guid: {40630b7f-9004-4155-b605-9190b072981d},10003,Information,Network,none,2026-04-02 22:37:20,normal
+Network State Change Fired New Internet Connection Profile: false Connection Cost Changed: false Domain Connectivity Level Changed: false Network Connectivity Level Changed: true,10000,Information,Network,none,2026-04-02 23:04:35,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-04-03 12:15:35,normal
+An account was successfully logged on. Subject: Security ID: SYSTEM Account Name: DESKTOP-USER$ Logon Type: 5,4624,Information,Security,none,2026-04-03 15:31:11,normal
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-04-03 16:42:14,normal
+Windows Filtering Platform blocked connection. Application: nmap.exe Source Port: 54231 Destination Port: 22 Direction: Outbound,5157,Audit Failure,Firewall,Port Scanning,2026-04-03 18:36:34,attack
+A new process has been created. Creator Subject: Account Name: vijayan New Process Name: C:\Windows\System32\cmd.exe Token Elevation Type: Full,4688,Audit Success,Security,Privilege Escalation,2026-04-03 21:24:26,attack
+Credential Manager credentials were read. Subject: Account Name: vijayan Target Name: MicrosoftOffice16_Data Process Name: C:\Windows\System32\rundll32.exe,5379,Audit Success,Security,Credential Dumping,2026-04-03 21:36:20,attack
+Special privileges assigned to new logon. Account Name: vijayan Privileges: SeDebugPrivilege SeTakeOwnershipPrivilege SeLoadDriverPrivilege,4672,Audit Success,Security,Privilege Escalation,2026-04-03 21:40:25,attack
+The Windows Defender Antivirus scan has detected items that may not be acceptable. Threat: HackTool:Win64/Mimikatz Category: Tool,1117,Warning,Security,Credential Dumping,2026-04-03 21:44:40,attack
+Credential Manager credentials were read. Subject: Account Name: vijayan Target Name: MicrosoftOffice16_Data Process Name: C:\Windows\System32\rundll32.exe,5379,Audit Success,Security,Credential Dumping,2026-04-03 21:52:23,attack
+Firewall rule deleted. Rule Name: Block RDP Modified By: vijayan New State: Disabled,2006,Warning,Firewall,Firewall Rule Violation,2026-04-03 23:03:08,attack
+A user account was locked out. Target Account Name: guest Caller Computer Name: ATTACKER-PC,4740,Failure Audit,Security,Account Lockout Spike,2026-04-04 00:12:40,attack
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-04-04 00:19:10,normal
+"Multiple connection attempts from single source. Source: 192.168.1.105 Ports: 21,22,23,25,80,443,3389 within 5 seconds",5157,Warning,Firewall,Port Scanning,2026-04-04 01:27:00,attack
+Windows is starting up. This event is logged when LSASS.EXE starts.,4608,Information,System,none,2026-04-04 02:15:42,normal
+A network share object was accessed. Share Name: \\*\ADMIN$ Account Name: administrator Source Address: 10.0.0.22,5140,Audit Success,Security,Lateral Movement,2026-04-04 02:21:03,attack
+An account was successfully logged on. Account Name: vijayan Logon Type: 3 Network Source Address: 192.168.1.105 Workstation: ATTACKER-PC,4624,Audit Success,Security,Lateral Movement,2026-04-04 02:33:27,attack
+Windows Firewall blocked outbound connection. Application: unknown.exe Source IP: 192.168.1.10 Destination IP: 185.220.101.45 Destination Port: 9001,2006,Warning,Firewall,Firewall Rule Violation,2026-04-04 03:07:59,attack
+A new process has been created. Creator Subject: Account Name: vijayan New Process Name: C:\Windows\System32\cmd.exe Token Elevation Type: Full,4688,Audit Success,Security,Privilege Escalation,2026-04-04 06:38:36,attack
+A new process has been created. New Process Name: C:\Users\vijayan\AppData\Roaming\malware.exe Parent Process: explorer.exe,4688,Audit Success,Security,Malware Activity,2026-04-04 10:03:35,attack
+DNS query to known C2 domain: malware-c2-server.ru Process: svchost.exe,5158,Warning,Network,Data Exfiltration,2026-04-04 14:58:16,attack
+An account was successfully logged on. Account Name: vijayan Logon Type: 3 Network Source Address: 192.168.1.105 Workstation: ATTACKER-PC,4624,Audit Success,Security,Lateral Movement,2026-04-04 15:10:27,attack
+A network share object was accessed. Share Name: \\*\ADMIN$ Account Name: administrator Source Address: 10.0.0.22,5140,Audit Success,Security,Lateral Movement,2026-04-04 15:36:28,attack
+"Multiple connection attempts from single source. Source: 192.168.1.105 Ports: 21,22,23,25,80,443,3389 within 5 seconds",5157,Warning,Firewall,Port Scanning,2026-04-04 16:40:36,attack
+A new process has been created. New Process Name: C:\Users\vijayan\AppData\Roaming\malware.exe Parent Process: explorer.exe,4688,Audit Success,Security,Malware Activity,2026-04-04 17:45:37,attack
+Outbound network connection to suspicious IP. Process: powershell.exe Destination: 185.220.101.45:4444 Protocol: TCP Bytes Sent: 52428800,5156,Warning,Firewall,Data Exfiltration,2026-04-04 18:34:33,attack
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-04-04 19:25:29,normal
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-04-04 19:55:10,normal
+A user account was locked out. Target Account Name: guest Caller Computer Name: ATTACKER-PC,4740,Failure Audit,Security,Account Lockout Spike,2026-04-04 21:50:00,attack
+Firewall rule deleted. Rule Name: Block RDP Modified By: vijayan New State: Disabled,2006,Warning,Firewall,Firewall Rule Violation,2026-04-05 03:19:07,attack
+"Multiple connection attempts from single source. Source: 192.168.1.105 Ports: 21,22,23,25,80,443,3389 within 5 seconds",5157,Warning,Firewall,Port Scanning,2026-04-05 03:26:13,attack
+LSASS memory was accessed by an unusual process. Source Process: mimikatz.exe Target Process: lsass.exe,4656,Audit Success,Security,Credential Dumping,2026-04-05 04:08:33,attack
+Special privileges assigned to new logon. Account Name: vijayan Privileges: SeDebugPrivilege SeTakeOwnershipPrivilege SeLoadDriverPrivilege,4672,Audit Success,Security,Privilege Escalation,2026-04-05 04:44:11,attack
+Special privileges assigned to new logon. Account Name: vijayan Privileges: SeDebugPrivilege SeTakeOwnershipPrivilege SeLoadDriverPrivilege,4672,Audit Success,Security,Privilege Escalation,2026-04-05 05:06:25,attack
+DNS query to known C2 domain: malware-c2-server.ru Process: svchost.exe,5158,Warning,Network,Data Exfiltration,2026-04-05 05:57:53,attack
+Credential Manager credentials were read. Subject: Account Name: vijayan Target Name: MicrosoftOffice16_Data Process Name: C:\Windows\System32\rundll32.exe,5379,Audit Success,Security,Credential Dumping,2026-04-05 06:19:07,attack
+Windows Filtering Platform blocked connection. Application: nmap.exe Source Port: 54231 Destination Port: 22 Direction: Outbound,5157,Audit Failure,Firewall,Port Scanning,2026-04-05 07:38:14,attack
+A rule was added to Windows Defender Firewall exception list. Rule Name: Allow Chrome Network Direction: Outbound,2004,Information,Firewall,none,2026-04-05 07:54:40,normal
+Credential Manager credentials were read. Subject: Account Name: vijayan Target Name: MicrosoftOffice16_Data Process Name: C:\Windows\System32\rundll32.exe,5379,Audit Success,Security,Credential Dumping,2026-04-05 07:58:04,attack
+Windows Defender detected malware. Threat Name: Trojan:Win32/Emotet Severity: High Action: Quarantine failed Path: C:\Users\vijayan\Downloads\invoice.exe,1116,Error,Security,Malware Activity,2026-04-05 09:56:33,attack
+Registry value accessed: HKLM\SAM\SAM\Domains\Account\Users by process: reg.exe Subject: Account Name: vijayan,4663,Audit Success,Security,Credential Dumping,2026-04-05 11:23:08,attack
+Object access denied. Object Name: C:\Users\Administrator\Desktop\passwords.txt Account Name: vijayan Access: Read,4656,Audit Failure,Security,Unauthorized Access,2026-04-05 11:23:18,attack
+Registry value accessed: HKLM\SAM\SAM\Domains\Account\Users by process: reg.exe Subject: Account Name: vijayan,4663,Audit Success,Security,Credential Dumping,2026-04-05 11:54:08,attack
+A user account was locked out. Target Account Name: vijayan Caller Computer Name: UNKNOWN-HOST,4740,Failure Audit,Security,Account Lockout Spike,2026-04-05 13:11:56,attack
+A new process has been created. Creator Subject: Account Name: vijayan New Process Name: C:\Windows\System32\cmd.exe Token Elevation Type: Full,4688,Audit Success,Security,Privilege Escalation,2026-04-05 14:00:02,attack
+A new process has been created. Creator Subject: Account Name: vijayan New Process Name: C:\Windows\System32\cmd.exe Token Elevation Type: Full,4688,Audit Success,Security,Privilege Escalation,2026-04-05 14:05:37,attack
+Windows Filtering Platform blocked connection. Application: nmap.exe Source Port: 54231 Destination Port: 22 Direction: Outbound,5157,Audit Failure,Firewall,Port Scanning,2026-04-05 15:40:09,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:13,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:16,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:19,attack
+An account failed to log on. Account Name: root Failure Reason: Unknown user name or bad password Source Network Address: 172.16.0.23,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:22,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:25,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:28,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:31,attack
+An account failed to log on. Account Name: administrator Failure Reason: Unknown user name or bad password Source Network Address: 192.168.1.105,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:34,attack
+An account failed to log on. Account Name: administrator Failure Reason: Unknown user name or bad password Source Network Address: 192.168.1.105,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:37,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:40,attack
+An account failed to log on. Account Name: administrator Failure Reason: Unknown user name or bad password Source Network Address: 192.168.1.105,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:43,attack
+An account failed to log on. Account Name: administrator Failure Reason: Unknown user name or bad password Source Network Address: 192.168.1.105,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:46,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:49,attack
+An account failed to log on. Account Name: root Failure Reason: Unknown user name or bad password Source Network Address: 172.16.0.23,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:52,attack
+An account failed to log on. Account Name: administrator Failure Reason: Unknown user name or bad password Source Network Address: 192.168.1.105,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:55,attack
+An account failed to log on. Account Name: admin Failure Reason: Unknown user name or bad password Source Network Address: 10.0.0.44,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:32:58,attack
+An account failed to log on. Account Name: root Failure Reason: Unknown user name or bad password Source Network Address: 172.16.0.23,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:33:01,attack
+An account failed to log on. Account Name: admin Failure Reason: Unknown user name or bad password Source Network Address: 10.0.0.44,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:33:04,attack
+An account failed to log on. Account Name: admin Failure Reason: Unknown user name or bad password Source Network Address: 10.0.0.44,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:33:07,attack
+An account failed to log on. Account Name: vijayan Failure Reason: Wrong Password Source Network Address: 185.220.101.45 Logon Type: 10,4625,Failure Audit,Security,Brute Force Attack,2026-04-05 16:33:10,attack
+Special privileges assigned to new logon. Subject: Account Name: SYSTEM Privileges: SeAssignPrimaryTokenPrivilege,4672,Information,Security,none,2026-04-05 16:59:06,normal
+A user account was locked out. Target Account Name: guest Caller Computer Name: ATTACKER-PC,4740,Failure Audit,Security,Account Lockout Spike,2026-04-05 17:05:57,attack
+A user account was locked out. Target Account Name: vijayan Caller Computer Name: UNKNOWN-HOST,4740,Failure Audit,Security,Account Lockout Spike,2026-04-05 17:22:13,attack
+The Windows Defender Firewall service started successfully.,2002,Information,Firewall,none,2026-04-05 18:07:30,normal
